@@ -1,0 +1,24 @@
+[Message:   BepInEx] BepInEx 5.4.15.0 - TrickyTowers (3/29/2024 7:41:17 PM)
+[Info   :   BepInEx] Running under Unity v5.5.1.8554643
+[Info   :   BepInEx] CLR runtime version: 3.0.40818.0
+[Info   :   BepInEx] Supports SRE: True
+[Info   :   BepInEx] System platform: Windows
+[Message:   BepInEx] Preloader started
+[Info   :   BepInEx] Loaded 1 patcher method from [BepInEx.Preloader 5.4.15.0]
+[Info   :   BepInEx] 1 patcher plugin loaded
+[Info   :   BepInEx] Patching [UnityEngine] with [BepInEx.Chainloader]
+[Message:   BepInEx] Preloader finished
+[Warning:  HarmonyX] AccessTools.Property: Could not find property for type UnityEngine.Application and name isBatchMode
+[Message:   BepInEx] Chainloader ready
+[Message:   BepInEx] Chainloader started
+[Info   :   BepInEx] 1 plugins to load
+[Info   :   BepInEx] Loading [TrickyMultiplayerPlus 1.0]
+[Message:   BepInEx] Chainloader startup complete
+[Info   :   Console] [APP] explanations initialised
+[Info   :   Console] [APP] Trophies initialised
+[Info   :   Console] [APP] Leaderboards initialised
+[Info   :   Console] [APP] User manager initialised
+[Info   :   Console] [APP] Net command initialised
+[Info   :   Console] [APP] prewarm leaderboard initialised
+[Info   :   Console] [APP] _AttachDevice(): PlayStation 4 Controller
+[Info   :   Console] [APP] _AttachDevice(): PlayStation 4 Controller

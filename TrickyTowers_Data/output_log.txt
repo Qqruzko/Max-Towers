@@ -1,0 +1,960 @@
+Initialize engine version: 5.5.1p3 (828893732fe0)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 9.0c [aticfx32.dll 27.20.20903.8001]
+    Renderer: AMD Radeon(TM) R5 M430
+    Vendor:   ATI
+    VRAM:     2039 MB (via DXGI)
+    Caps:     Shader=30 DepthRT=1 NativeDepth=1 NativeShadow=1 DF16=1 INTZ=1 NULL=1 RESZ=1 SlowINTZ=1 ATOC=0 BC4=1 BC5=1
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Steam\steamapps\common\Tricky Towers\TrickyTowers_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Steam\steamapps\common\Tricky Towers\TrickyTowers_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Steam\steamapps\common\Tricky Towers\TrickyTowers_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading C:\Steam\steamapps\common\Tricky Towers\TrickyTowers_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: C:\Steam\steamapps\common\Tricky Towers\TrickyTowers_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Steam\steamapps\common\Tricky Towers\TrickyTowers_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Steam\steamapps\common\Tricky Towers\TrickyTowers_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Steam\steamapps\common\Tricky Towers\TrickyTowers_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Steam\steamapps\common\Tricky Towers\TrickyTowers_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Steam\steamapps\common\Tricky Towers\TrickyTowers_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Steam\steamapps\common\Tricky Towers\TrickyTowers_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll (this message is harmless)
+Loading C:\Steam\steamapps\common\Tricky Towers\TrickyTowers_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll into Unity Child Domain
+Platform assembly: C:\Steam\steamapps\common\Tricky Towers\TrickyTowers_Data\Managed\DOTween.dll (this message is harmless)
+Loading C:\Steam\steamapps\common\Tricky Towers\TrickyTowers_Data\Managed\DOTween.dll into Unity Child Domain
+Platform assembly: C:\Steam\steamapps\common\Tricky Towers\TrickyTowers_Data\Managed\DOTween43.dll (this message is harmless)
+Loading C:\Steam\steamapps\common\Tricky Towers\TrickyTowers_Data\Managed\DOTween43.dll into Unity Child Domain
+Platform assembly: C:\Steam\steamapps\common\Tricky Towers\TrickyTowers_Data\Managed\DOTween46.dll (this message is harmless)
+Loading C:\Steam\steamapps\common\Tricky Towers\TrickyTowers_Data\Managed\DOTween46.dll into Unity Child Domain
+Platform assembly: C:\Steam\steamapps\common\Tricky Towers\TrickyTowers_Data\Managed\DOTween50.dll (this message is harmless)
+Loading C:\Steam\steamapps\common\Tricky Towers\TrickyTowers_Data\Managed\DOTween50.dll into Unity Child Domain
+- Completed reload, in  0.116 seconds
+OnLevelWasLoaded was found on DOTweenComponent
+This message has been deprecated and will be removed in a later version of Unity.
+Add a delegate to SceneManager.sceneLoaded instead to get notifications after scene loading has completed
+ 
+(Filename:  Line: 382)
+
+OnLevelWasLoaded was found on SceneManager
+This message has been deprecated and will be removed in a later version of Unity.
+Add a delegate to SceneManager.sceneLoaded instead to get notifications after scene loading has completed
+ 
+(Filename:  Line: 382)
+
+<RI> Initializing input.
+<RI> Input initialized.
+desktop: 1366x768 60Hz; virtual: 1366x768 at 0,0
+<RI> Initialized touch support.
+UnloadTime: 4.021600 ms
+!!!!!! - THIS BUILD IS IN RELEASE MODE - !!!!!!
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Message:   BepInEx] BepInEx 5.4.15.0 - TrickyTowers (3/29/2024 7:41:17 PM)
+[Info   :   BepInEx] Running under Unity v5.5.1.8554643
+[Info   :   BepInEx] CLR runtime version: 3.0.40818.0
+[Info   :   BepInEx] Supports SRE: True
+[Info   :   BepInEx] System platform: Windows
+[Message:   BepInEx] Preloader started
+[Info   :   BepInEx] Loaded 1 patcher method from [BepInEx.Preloader 5.4.15.0]
+[Info   :   BepInEx] 1 patcher plugin loaded
+[Info   :   BepInEx] Patching [UnityEngine] with [BepInEx.Chainloader]
+[Message:   BepInEx] Preloader finished
+[Message:   BepInEx] Chainloader ready
+[Message:   BepInEx] Chainloader started
+[Info   :   BepInEx] 1 plugins to load
+[Info   :   BepInEx] Loading [TrickyMultiplayerPlus 1.0]
+Non platform assembly: C:\Steam\steamapps\common\Tricky Towers\BepInEx\plugins\TrickyMultiplayerPlus\TrickyMultiplayerPlus.dll (this message is harmless)
+Platform assembly: C:\Steam\steamapps\common\Tricky Towers\TrickyTowers_Data\Managed\System.Xml.dll (this message is harmless)
+[Message:   BepInEx] Chainloader startup complete
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.065800 ms
+Fallback handler could not load library C:/Steam/steamapps/common/Tricky Towers/TrickyTowers_Data/Mono/XInputInterface64
+Fallback handler could not load library C:/Steam/steamapps/common/Tricky Towers/TrickyTowers_Data/Mono/.\XInputInterface64
+Fallback handler could not load library C:/Steam/steamapps/common/Tricky Towers/TrickyTowers_Data/Mono/XInputInterface64
+Fallback handler could not load library C:/Steam/steamapps/common/Tricky Towers/TrickyTowers_Data/Mono/libXInputInterface64
+Fallback handler could not load library C:/Steam/steamapps/common/Tricky Towers/TrickyTowers_Data/Mono/.\libXInputInterface64
+Fallback handler could not load library C:/Steam/steamapps/common/Tricky Towers/TrickyTowers_Data/Mono/libXInputInterface64
+Patching strings.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Patched race modes!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Adding tallest modes!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Patched survival modes!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Patched puzzle modes!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Patching PlayerStats Constructor.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[APP] explanations initialised
+[APP] Trophies initialised
+[APP] Leaderboards initialised
+[APP] User manager initialised
+[APP] Net command initialised
+[APP] prewarm leaderboard initialised
+[APP] _AttachDevice(): PlayStation 4 Controller
+
+Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 27063.
+Total: 55.728802 ms (FindLiveObjects: 4.309900 ms CreateObjectMapping: 6.352400 ms MarkObjects: 44.938900 ms  DeleteObjects: 0.125500 ms)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 9.271400 ms
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 27206.
+Total: 49.023098 ms (FindLiveObjects: 5.160300 ms CreateObjectMapping: 5.564800 ms MarkObjects: 38.140400 ms  DeleteObjects: 0.155200 ms)
+
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 38a8 -> priority: 1 
+Sending analytics to http://www.google-analytics.com/collect: 
+v=1&t=event&tid=UA-76677029-1&cid=af9a5157-8e29-4457-9867-def65d08f9f3&av=01.82&an=Tricky%20Towers%20STEAM&ec=APPLICATION&ea=GAME_START&sc=start&ul=ru&sr=1366x768
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+No analytics to send!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 9.957100 ms
+
+Unloading 37 unused Assets to reduce memory usage. Loaded Objects now: 27764.
+Total: 50.682999 ms (FindLiveObjects: 4.251200 ms CreateObjectMapping: 5.393200 ms MarkObjects: 40.826298 ms  DeleteObjects: 0.210100 ms)
+
+No analytics to send!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 12.243500 ms
+[APP] _AttachDevice(): PlayStation 4 Controller
+
+Unloading 57 unused Assets to reduce memory usage. Loaded Objects now: 29896.
+Total: 59.525299 ms (FindLiveObjects: 5.798000 ms CreateObjectMapping: 5.799500 ms MarkObjects: 47.684700 ms  DeleteObjects: 0.240500 ms)
+
+Sending analytics to http://www.google-analytics.com/batch: 
+v=1&t=event&tid=UA-76677029-1&cid=af9a5157-8e29-4457-9867-def65d08f9f3&av=01.82&an=Tricky%20Towers%20STEAM&ec=WIZARD&ea=SELECT&el=DEFAULT
+v=1&t=event&tid=UA-76677029-1&cid=af9a5157-8e29-4457-9867-def65d08f9f3&av=01.82&an=Tricky%20Towers%20STEAM&ec=WIZARD&ea=SELECT&el=WITCH
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 10.221101 ms
+Trying to get image of ModeItem01(Clone) (UnityEngine.GameObject)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+False
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+False
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Trying to get image of DifficultyItem03(Clone) (UnityEngine.GameObject)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+False
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+False
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Trying to get image of DifficultyItem03(Clone) (UnityEngine.GameObject)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+False
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+False
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Trying to get image of ModeItem01(Clone) (UnityEngine.GameObject)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+False
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+False
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 27611.
+Total: 49.028301 ms (FindLiveObjects: 3.915700 ms CreateObjectMapping: 4.659000 ms MarkObjects: 40.285099 ms  DeleteObjects: 0.166200 ms)
+
+Trying to get image of DifficultyItem03(Clone) (UnityEngine.GameObject)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+False
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+False
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Trying to get image of DifficultyItem03(Clone) (UnityEngine.GameObject)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+False
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+False
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+_gameSetup.gameTypeFlowModel: SUPER
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+No analytics to send!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 9.298800 ms
+
+Unloading 16 unused Assets to reduce memory usage. Loaded Objects now: 27074.
+Total: 48.932301 ms (FindLiveObjects: 3.950700 ms CreateObjectMapping: 4.785700 ms MarkObjects: 40.066799 ms  DeleteObjects: 0.127200 ms)
+
+Fetching title for difficulty: DIFFICULTY_PRO and mode MODE_RACE
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Sending analytics to http://www.google-analytics.com/collect: 
+v=1&t=event&tid=UA-76677029-1&cid=af9a5157-8e29-4457-9867-def65d08f9f3&av=01.82&an=Tricky%20Towers%20STEAM&ec=LOCAL_MULTIPLAYER&ea=RACE_PRO&el=2
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 9.792100 ms
+Trying to get image of ModeItem01(Clone) (UnityEngine.GameObject)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+False
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+False
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Trying to get image of DifficultyItem03(Clone) (UnityEngine.GameObject)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+False
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+False
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Trying to get image of DifficultyItem03(Clone) (UnityEngine.GameObject)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+False
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+False
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Trying to get image of ModeItem01(Clone) (UnityEngine.GameObject)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+False
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+False
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+
+Unloading 2 unused Assets to reduce memory usage. Loaded Objects now: 27429.
+Total: 50.210499 ms (FindLiveObjects: 4.079700 ms CreateObjectMapping: 4.754500 ms MarkObjects: 41.260201 ms  DeleteObjects: 0.113900 ms)
+
+Trying to get image of DifficultyItem03(Clone) (UnityEngine.GameObject)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+False
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+False
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Trying to get image of DifficultyItem03(Clone) (UnityEngine.GameObject)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+False
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+False
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Trying to get image of DifficultyItem03(Clone) (UnityEngine.GameObject)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+False
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+False
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+_gameSetup.gameTypeFlowModel: SUPER
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+No analytics to send!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 10.889000 ms
+
+Unloading 18 unused Assets to reduce memory usage. Loaded Objects now: 26900.
+Total: 47.993999 ms (FindLiveObjects: 4.007800 ms CreateObjectMapping: 4.835300 ms MarkObjects: 39.004299 ms  DeleteObjects: 0.144200 ms)
+
+Fetching title for difficulty: DIFFICULTY_NORMAL and mode MODE_RACE
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Sending analytics to http://www.google-analytics.com/collect: 
+v=1&t=event&tid=UA-76677029-1&cid=af9a5157-8e29-4457-9867-def65d08f9f3&av=01.82&an=Tricky%20Towers%20STEAM&ec=LOCAL_MULTIPLAYER&ea=RACE_PRO&el=2
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 9.793600 ms
+Trying to get image of ModeItem01(Clone) (UnityEngine.GameObject)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+False
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+False
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Trying to get image of DifficultyItem03(Clone) (UnityEngine.GameObject)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+False
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+False
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Trying to get image of DifficultyItem03(Clone) (UnityEngine.GameObject)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+False
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+False
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Trying to get image of ModeItem01(Clone) (UnityEngine.GameObject)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+False
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+False
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+
+Unloading 2 unused Assets to reduce memory usage. Loaded Objects now: 27152.
+Total: 50.229198 ms (FindLiveObjects: 3.993900 ms CreateObjectMapping: 4.840100 ms MarkObjects: 41.279900 ms  DeleteObjects: 0.113300 ms)
+
+Trying to get image of DifficultyItem03(Clone) (UnityEngine.GameObject)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+False
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+False
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Trying to get image of DifficultyItem03(Clone) (UnityEngine.GameObject)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+False
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+False
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Trying to get image of DifficultyItem03(Clone) (UnityEngine.GameObject)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+False
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+False
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Trying to get image of DifficultyItem03(Clone) (UnityEngine.GameObject)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+False
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+False
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Trying to get image of DifficultyItem03(Clone) (UnityEngine.GameObject)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+False
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+False
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Trying to get image of DifficultyItem03(Clone) (UnityEngine.GameObject)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+False
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+False
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Trying to get image of DifficultyItem03(Clone) (UnityEngine.GameObject)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+False
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+False
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Trying to get image of DifficultyItem03(Clone) (UnityEngine.GameObject)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+False
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+False
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Trying to get image of DifficultyItem03(Clone) (UnityEngine.GameObject)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+False
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+False
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+_gameSetup.gameTypeFlowModel: SUPER
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+No analytics to send!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 9.307300 ms
+
+Unloading 30 unused Assets to reduce memory usage. Loaded Objects now: 26623.
+Total: 48.551701 ms (FindLiveObjects: 3.995300 ms CreateObjectMapping: 4.551000 ms MarkObjects: 39.861000 ms  DeleteObjects: 0.142200 ms)
+
+Fetching title for difficulty: DIFFICULTY_CRAZY and mode MODE_RACE
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Sending analytics to http://www.google-analytics.com/collect: 
+v=1&t=event&tid=UA-76677029-1&cid=af9a5157-8e29-4457-9867-def65d08f9f3&av=01.82&an=Tricky%20Towers%20STEAM&ec=LOCAL_MULTIPLAYER&ea=RACE_NORMAL&el=2
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 9.685100 ms
+Trying to get image of ModeItem01(Clone) (UnityEngine.GameObject)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+False
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+False
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Trying to get image of DifficultyItem03(Clone) (UnityEngine.GameObject)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+False
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+False
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Trying to get image of DifficultyItem03(Clone) (UnityEngine.GameObject)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+False
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+False
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Trying to get image of ModeItem01(Clone) (UnityEngine.GameObject)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+False
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+False
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+
+Unloading 2 unused Assets to reduce memory usage. Loaded Objects now: 26874.
+Total: 51.027500 ms (FindLiveObjects: 3.826300 ms CreateObjectMapping: 4.813500 ms MarkObjects: 42.263599 ms  DeleteObjects: 0.121800 ms)
+
+Trying to get image of DifficultyItem03(Clone) (UnityEngine.GameObject)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+False
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+False
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Trying to get image of DifficultyItem03(Clone) (UnityEngine.GameObject)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+False
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+False
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+_gameSetup.gameTypeFlowModel: SUPER
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+No analytics to send!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 8.923700 ms
+
+Unloading 16 unused Assets to reduce memory usage. Loaded Objects now: 26345.
+Total: 49.115700 ms (FindLiveObjects: 3.726900 ms CreateObjectMapping: 4.622800 ms MarkObjects: 40.623402 ms  DeleteObjects: 0.140400 ms)
+
+Fetching title for difficulty: DIFFICULTY_HEROIC and mode MODE_RACE
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Sending analytics to http://www.google-analytics.com/collect: 
+v=1&t=event&tid=UA-76677029-1&cid=af9a5157-8e29-4457-9867-def65d08f9f3&av=01.82&an=Tricky%20Towers%20STEAM&ec=LOCAL_MULTIPLAYER&ea=RACE_CRAZY&el=2
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 10.855000 ms
+Trying to get image of ModeItem01(Clone) (UnityEngine.GameObject)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+False
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+False
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Trying to get image of DifficultyItem03(Clone) (UnityEngine.GameObject)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+False
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+False
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Trying to get image of DifficultyItem03(Clone) (UnityEngine.GameObject)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+False
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+False
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Trying to get image of ModeItem01(Clone) (UnityEngine.GameObject)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+False
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+False
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+
+Unloading 2 unused Assets to reduce memory usage. Loaded Objects now: 24900.
+Total: 49.752499 ms (FindLiveObjects: 3.710900 ms CreateObjectMapping: 5.087500 ms MarkObjects: 40.855400 ms  DeleteObjects: 0.095700 ms)
+
+Trying to get image of DifficultyItem03(Clone) (UnityEngine.GameObject)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+False
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+False
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Trying to get image of DifficultyItem03(Clone) (UnityEngine.GameObject)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+False
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+False
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+_gameSetup.gameTypeFlowModel: SUPER
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+No analytics to send!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 8.942500 ms
+
+Unloading 16 unused Assets to reduce memory usage. Loaded Objects now: 24374.
+Total: 48.205200 ms (FindLiveObjects: 3.475600 ms CreateObjectMapping: 4.836500 ms MarkObjects: 39.753998 ms  DeleteObjects: 0.136400 ms)
+
+Fetching title for difficulty: DIFFICULTY_CRAZY and mode MODE_RACE
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Sending analytics to http://www.google-analytics.com/collect: 
+v=1&t=event&tid=UA-76677029-1&cid=af9a5157-8e29-4457-9867-def65d08f9f3&av=01.82&an=Tricky%20Towers%20STEAM&ec=LOCAL_MULTIPLAYER&ea=RACE_HEROIC&el=2
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 8.728801 ms
+Trying to get image of ModeItem01(Clone) (UnityEngine.GameObject)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+False
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+False
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Trying to get image of DifficultyItem03(Clone) (UnityEngine.GameObject)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+False
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+False
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Trying to get image of DifficultyItem03(Clone) (UnityEngine.GameObject)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+False
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+False
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Trying to get image of ModeItem01(Clone) (UnityEngine.GameObject)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+False
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+False
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+
+Unloading 2 unused Assets to reduce memory usage. Loaded Objects now: 24900.
+Total: 51.716702 ms (FindLiveObjects: 4.069500 ms CreateObjectMapping: 4.717200 ms MarkObjects: 42.823200 ms  DeleteObjects: 0.104400 ms)
+
+Trying to get image of DifficultyItem03(Clone) (UnityEngine.GameObject)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+False
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+False
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Trying to get image of DifficultyItem03(Clone) (UnityEngine.GameObject)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+False
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+False
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+_gameSetup.gameTypeFlowModel: SUPER
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+No analytics to send!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 8.758201 ms
+
+Unloading 16 unused Assets to reduce memory usage. Loaded Objects now: 24371.
+Total: 49.840698 ms (FindLiveObjects: 3.743000 ms CreateObjectMapping: 4.812900 ms MarkObjects: 41.154499 ms  DeleteObjects: 0.127900 ms)
+
+Fetching title for difficulty: DIFFICULTY_NORMAL and mode MODE_RACE
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Sending analytics to http://www.google-analytics.com/collect: 
+v=1&t=event&tid=UA-76677029-1&cid=af9a5157-8e29-4457-9867-def65d08f9f3&av=01.82&an=Tricky%20Towers%20STEAM&ec=LOCAL_MULTIPLAYER&ea=RACE_CRAZY&el=2
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 9.191700 ms
+Trying to get image of ModeItem01(Clone) (UnityEngine.GameObject)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+False
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+False
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Trying to get image of DifficultyItem03(Clone) (UnityEngine.GameObject)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+False
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+False
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Trying to get image of DifficultyItem03(Clone) (UnityEngine.GameObject)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+False
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+False
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Trying to get image of ModeItem01(Clone) (UnityEngine.GameObject)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+False
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+False
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+
+Unloading 2 unused Assets to reduce memory usage. Loaded Objects now: 24670.
+Total: 50.349102 ms (FindLiveObjects: 3.961200 ms CreateObjectMapping: 4.727900 ms MarkObjects: 41.562698 ms  DeleteObjects: 0.095000 ms)
+
+Trying to get image of DifficultyItem03(Clone) (UnityEngine.GameObject)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+False
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+False
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Trying to get image of DifficultyItem03(Clone) (UnityEngine.GameObject)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+False
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+False
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+_gameSetup.gameTypeFlowModel: SUPER
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+No analytics to send!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 9.163600 ms
+
+Unloading 16 unused Assets to reduce memory usage. Loaded Objects now: 24144.
+Total: 48.070698 ms (FindLiveObjects: 3.561400 ms CreateObjectMapping: 4.799600 ms MarkObjects: 39.587402 ms  DeleteObjects: 0.120300 ms)
+
+Fetching title for difficulty: DIFFICULTY_PRO and mode MODE_RACE
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Sending analytics to http://www.google-analytics.com/collect: 
+v=1&t=event&tid=UA-76677029-1&cid=af9a5157-8e29-4457-9867-def65d08f9f3&av=01.82&an=Tricky%20Towers%20STEAM&ec=APPLICATION&ea=GAME_END&sc=end&ul=ru&sr=1366x768
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Sending analytics to http://www.google-analytics.com/collect: 
+v=1&t=event&tid=UA-76677029-1&cid=af9a5157-8e29-4457-9867-def65d08f9f3&av=01.82&an=Tricky%20Towers%20STEAM&ec=LOCAL_MULTIPLAYER&ea=RACE_NORMAL&el=2
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
